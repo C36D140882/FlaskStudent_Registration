@@ -25,6 +25,7 @@ def register():
             'name': name,
             'email': email,
             'age': age,
+            
             'student_id': student_id,
             'course': course
         })
